@@ -1,5 +1,5 @@
 # memconsume
-Kernel Module to consume (upon insmod) and release (upon rmmod) memory
+Kernel Module to consume (upon `insmod`) and release (upon `rmmod`) memory
 
 ### Building
 `make`
